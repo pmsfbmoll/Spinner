@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="textviewtext">Phone number:</string>
+    <string name="empty"> </string>
+    <string-array name="arr">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
